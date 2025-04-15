@@ -8,7 +8,7 @@ const Header = () => {
     <header className="bg-header-color text-white p-4">
       <div className="container mx-auto flex items-center justify-between">
         <Link href="/" className="text-2xl font-semibold">
-          TrackStar Central
+          Athletics Teko
         </Link>
         <nav>
           <ul className="flex space-x-6">

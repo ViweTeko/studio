@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'TrackStar Central',
+  title: 'Athletics Teko',
   description: 'Track and Field Management Application',
 };
 
